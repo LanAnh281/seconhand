@@ -1,0 +1,39 @@
+
+carousel-inner {
+    position: relative;
+    width: 245px;
+    overflow: hidden;
+    height: 245px;
+}
+
+    .zoom:hover{
+        transform: scale(1.17);
+    }
+    a[href='chitiet.html'] {
+        text-decoration: none;
+    }
+    ul li>a:hover{
+        text-decoration: none;
+        color: black;
+        
+    }
+    ul{
+        list-style: none;
+        padding-left: 0;
+        
+    }
+    li a{
+        color: black;
+    }
+    .card-body:hover{
+       color: black;
+        opacity: 0.8 .2s;
+        border: 1px solid bisque;
+        box-shadow:  1px 1px 2px #427388;
+        font-size: large;
+        
+    }
+    .active_quantri{
+        color: #2c136b;
+        font-size: large;
+    }
